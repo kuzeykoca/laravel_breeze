@@ -22,7 +22,7 @@ In order, the script:
 
 ## 📂 How to Use
 
-1. Save the script as `create-laravel-app.sh`.
+1. Save the script as `laravel-app.sh`.
 2. Make it executable:
    ```bash
-   chmod +x create-laravel-app.sh
+   chmod +x laravel-app.sh
